@@ -32,10 +32,10 @@
       <div>
         <h3 class="text-base md:text-lg font-semibold text-white mb-4">Kontak</h3>
         <ul class="space-y-2 text-base md:text-[17px]">
-          <li>
+          <!-- <li>
             WhatsApp:
             <span class="text-white font-medium">+62 815-8119-207</span>
-          </li>
+          </li> -->
           <li>
             Email:
             <span class="text-white font-medium">support@qlinova.id</span>
@@ -44,7 +44,7 @@
             Website:
             <span class="text-white font-medium">qlinova.id</span>
           </li>
-          <li>Alamat: Jl. Musi Raya No 211 – Depok</li>
+          <li>Alamat: Depok – Jawa Barat</li>
         </ul>
       </div>
 

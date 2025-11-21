@@ -97,13 +97,13 @@
           <h3 class="font-semibold text-slate-900 mb-3">Kontak Qlinova</h3>
           <div class="space-y-1 text-slate-700 mb-3">
             <p class="font-medium">Qlinova – Clinic Management System</p>
-            <p>Jl. Musi Raya No 211 – Depok</p>
+            <p>Depok - Jawa Barat</p>
           </div>
           <div class="space-y-1 text-slate-700 mb-3">
-            <p>
+            <!-- <p>
               WhatsApp:
               <span class="font-semibold">+62 815-8119-207</span>
-            </p>
+            </p> -->
             <p>
               Website:
               <span class="font-semibold">qlinova.id</span>
